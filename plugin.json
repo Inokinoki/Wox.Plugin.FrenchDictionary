@@ -1,0 +1,12 @@
+{
+    "ID":"D2D2C23B084F411DB66FE0C79D6C2A6H",   //Plugin ID，32 bit UUID
+    "ActionKeyword":"fr",                     //Plugin default action keyword
+    "Name":"French dictionary(法语词典)",                              //Plugin name
+    "Description":"Search translation or conjugaison in frdic.com",    //Plugin description
+    "Author":"Inoki",                     //Plugin Author
+    "Version":"0.9.0",                         //Plugin version，must be x.x.x format
+    "Language":"python",                       //Plugin language，we support csharp,python and executable now
+    "Website":"https://github.com/Inokinoki/Wox.Plugin.FrenchDictionary",         //Plugin website or author website
+    "IcoPath": "Images\\app.png",              //Plugin icon, relative path to the pluign folder
+    "ExecuteFileName":"frdic.py"   //Execution entry. Dll name for c# plugin, and python file for python plugin
+  }
