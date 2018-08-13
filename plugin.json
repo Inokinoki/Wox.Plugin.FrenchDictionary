@@ -1,10 +1,10 @@
 {
     "ID":"f2b1f11f65924a31903f9f4a5555c8e3",
     "ActionKeyword":"frdic",
-    "Name":"French dictionary(法语词典)",
+    "Name":"frdic",
     "Description":"Search translation or conjugaison in frdic.com",
     "Author":"Inoki",
-    "Version":"0.9.0",
+    "Version":"0.9.1",
     "Language":"python",
     "Website":"https://github.com/Inokinoki/Wox.Plugin.FrenchDictionary",
     "IcoPath": "Images\\app.png",
