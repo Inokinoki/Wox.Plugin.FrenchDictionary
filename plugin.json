@@ -1,6 +1,6 @@
 {
     "ID":"D2D2C23B084F411DB66FE0C79D6C2A6H",   //Plugin ID，32 bit UUID
-    "ActionKeyword":"fr",                     //Plugin default action keyword
+    "ActionKeyword":"frdic",                     //Plugin default action keyword
     "Name":"French dictionary(法语词典)",                              //Plugin name
     "Description":"Search translation or conjugaison in frdic.com",    //Plugin description
     "Author":"Inoki",                     //Plugin Author
